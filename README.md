@@ -25,7 +25,7 @@ O resultado é um repositório organizado com anotações, códigos e imagens qu
 
 ## ⚙️ Estrutura do Projeto
 
-[Step Function](images/step_function.png)
+![Step Function](imagens/"hello_world_step_functions.png")
 
 
 ## Experiência com Step Functions
