@@ -25,4 +25,17 @@ O resultado é um repositório organizado com anotações, códigos e imagens qu
 
 ## ⚙️ Estrutura do Projeto
 
-Vou apresentar imagens e minha experiência com a criação do Step Functions em outra pasta para ficar mais organizado.
+[Step Function](images/step_function.png)
+
+
+## Experiência com Step Functions
+
+- Criei uma Step Function básica que chama uma Lambda que retorna "Olá Mundo".
+- Fiz conforme aprendi na aula.
+- Achei a experiência relativamente fácil, pois eu sou iniciante e foi meu primeiro contato com o Step Function. 
+Minha execução apresentou erro e não consegui salvar, mas eu consegui capturar uma imagem do processo, e estou disponibilizando aqui como forma de mostrar que naveguei e testei a ferramenta.
+
+## Notas
+
+Por fim acredito que com a prática eu terei mais condições de utilizar a ferramente e inserir muito mais opções que estão disponiveis para utilização. 
+Gostei muito da ferramente é bem intutiva.
